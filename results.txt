@@ -1,0 +1,118 @@
+GREEN: Average1: 677.9896 Average2: 678.1675 Average3: 677.8116 Total Average:677.9896 Sleep Time: 0.5 
+
+PURPLE: Average1: 1049.573 Average2: 1049.395 Average3: 1049.217 Total Average:1049.395 Sleep Time: 0.5 
+
+GREEN: Average1: 496.5338 Average2: 496.0 Average3: 496.8897 Total Average:496.4745 Sleep Time: 0.5 
+
+PURPLE: Average1: 979.6574 Average2: 978.5897 Average3: 979.1051 Total Average:979.1174 Sleep Time: 0.5 
+
+GREEN: Average1: 252.5169 Average2: 252.8728 Average3: 252.8728 Total Average:252.7542 Sleep Time: 0.5 
+
+PURPLE: Average1: 1109.716 Average2: 1108.826 Average3: 1109.022 Total Average:1109.188 Sleep Time: 0.5 
+
+GREEN: Average1: 278.2346 Average2: 278.2346 Average3: 278.2346 Total Average:278.2346 Sleep Time: 0.5 
+
+PURPLE: Average1: 1161.448 Average2: 1160.914 Average3: 1160.914 Total Average:1161.092 Sleep Time: 0.5 
+
+GREEN: Average1: 710.1135 Average2: 710.4694 Average3: 710.4694 Total Average:710.3508 Sleep Time: 0.5 
+
+PURPLE: Average1: 1383.128 Average2: 1382.773 Average3: 1382.773 Total Average:1382.891 Sleep Time: 0.5 
+
+GREEN: Average1: 707.4442 Average2: 707.4442 Average3: 707.6221 Total Average:707.5035 Sleep Time: 0.5 
+
+PURPLE: Average1: 1371.113 Average2: 1371.113 Average3: 1370.223 Total Average:1370.816 Sleep Time: 0.5 
+
+
+
+9.5:
+Test0
+GREEN: Average1: 244.78 Average2: 244.602 Average3: 244.9579 Total Average:244.78 Sleep Time: 0.5 
+
+PURPLE: Average1: 1061.51 Average2: 1060.798 Average3: 1060.264 Total Average:1060.857 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 244.9579 Average2: 244.78 Average3: 244.4241 Total Average:244.7207 Sleep Time: 0.5 
+
+PURPLE: Average1: 1060.086 Average2: 1059.908 Average3: 1059.908 Total Average:1059.967 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 245.1359 Average2: 244.9579 Average3: 244.4241 Total Average:244.8393 Sleep Time: 0.5 
+
+PURPLE: Average1: 1059.908 Average2: 1059.908 Average3: 1059.73 Total Average:1059.849 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 244.602 Average2: 244.4241 Average3: 244.602 Total Average:244.5427 Sleep Time: 0.5 
+
+PURPLE: Average1: 1059.908 Average2: 1059.73 Average3: 1059.552 Total Average:1059.73 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 244.78 Average2: 244.9579 Average3: 244.9579 Total Average:244.8986 Sleep Time: 0.5 
+
+PURPLE: Average1: 1059.908 Average2: 1059.73 Average3: 1059.196 Total Average:1059.611 Sleep Time: 0.5 
+
+10:
+
+
+Test0
+GREEN: Average1: 277.0819 Average2: 276.9039 Average3: 276.726 Total Average:276.9039 Sleep Time: 0.5 
+
+PURPLE: Average1: 1152.118 Average2: 1151.584 Average3: 1151.406 Total Average:1151.703 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 277.2598 Average2: 277.4378 Average3: 277.4378 Total Average:277.3784 Sleep Time: 0.5 
+
+PURPLE: Average1: 1149.804 Average2: 1150.338 Average3: 1149.448 Total Average:1149.864 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 277.4378 Average2: 277.4378 Average3: 277.4378 Total Average:277.4378 Sleep Time: 0.5 
+
+PURPLE: Average1: 1149.092 Average2: 1148.737 Average3: 1148.914 Total Average:1148.915 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 277.4378 Average2: 277.2598 Average3: 277.6157 Total Average:277.4378 Sleep Time: 0.5 
+
+PURPLE: Average1: 1148.737 Average2: 1148.203 Average3: 1148.381 Total Average:1148.44 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 277.6157 Average2: 277.4378 Average3: 277.4378 Total Average:277.4971 Sleep Time: 0.5 
+
+PURPLE: Average1: 1148.025 Average2: 1148.203 Average3: 1148.025 Total Average:1148.084 Sleep Time: 0.5 
+
+10:Test0
+PURPLE: Average1: 931.6787 Average2: 931.3228 Average3: 931.3228 Total Average:931.4414 Sleep Time: 0.5 
+
+Test1
+PURPLE: Average1: 931.3228 Average2: 931.3228 Average3: 930.9669 Total Average:931.2041 Sleep Time: 0.5 
+
+Test2
+PURPLE: Average1: 930.9669 Average2: 930.433 Average3: 930.433 Total Average:930.611 Sleep Time: 0.5 
+
+Test3
+PURPLE: Average1: 930.611 Average2: 930.433 Average3: 930.433 Total Average:930.4924 Sleep Time: 0.5 
+
+Test4
+PURPLE: Average1: 930.433 Average2: 930.433 Average3: 930.2551 Total Average:930.3737 Sleep Time: 0.5 
+
+Test0
+PURPLE: Average1: 931.3228 Average2: 930.7889 Average3: 930.9669 Total Average:931.0262 Sleep Time: 0.5 
+
+Test1
+Test0
+PURPLE: Average1: 931.3228 Average2: 931.3228 Average3: 931.3228 Total Average:931.3228 Sleep Time: 0.5 
+
+Test1
+Test0
+PURPLE: Average1: 933.992 Average2: 933.992 Average3: 933.992 Total Average:933.992 Sleep Time: 0.5 
+
+Test1
+PURPLE: Average1: 933.992 Average2: 933.8141 Average3: 933.6361 Total Average:933.8141 Sleep Time: 0.5 
+
+Test2
+PURPLE: Average1: 933.992 Average2: 933.992 Average3: 933.8141 Total Average:933.9327 Sleep Time: 0.5 
+
+Test3
+PURPLE: Average1: 933.8141 Average2: 933.2803 Average3: 933.4211 Total Average:933.5051 Sleep Time: 0.5 
+
+Test4
+PURPLE: Average1: 933.1024 Average2: 933.1024 Average3: 933.1024 Total Average:933.1024 Sleep Time: 0.5 
+
