@@ -17,5 +17,5 @@ The first file is results.txt, this file will contain averaged results that will
 minute taken. This will be the easiest way to read the data as it will be in a format that is focused on user 
 readability. Each average is taken from 3 averages of 5 samples to make sure that it is accurate and percise. The other 
 file will be full.txt, this will contain each and every average taken. This means that it will be much harder to read 
-however it will be useful for debuging purposes if you change our code or are seeing reading that do not make sense.
+however it will be useful for debuging purposes if you change our code or are seeing readings that do not make sense.
 We would like to soon have the ability to just copy the file over into an excel file and to instantly map it from there.
