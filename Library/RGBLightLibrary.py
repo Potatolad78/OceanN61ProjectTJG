@@ -3,6 +3,7 @@ from time import sleep
 from picozero import RGBLED
 from servo import Servo
 import tsl2561
+import urtc
 #Created by Drew Rigby for group The Melting Pot
 #Version 1.0 4/24/24
 #Feel free to use this API for whatever you need just make sure
@@ -198,25 +199,32 @@ class servoMove:
     
     def move(self):
         self.servo.write(100)
-        sleep(1)
+        sleep(0.1)
         self.servo.write(-30)
-        sleep(1)
+        sleep(12)
         self.servo.write(100)
         
 class powerRelay:
     def __init__(self, pinNum):
-        self.relay = (pinNum, Pin.OUT)
+        self.relay = Pin(pinNum, Pin.OUT)
         
-    def enableRelay(self):
+    def enable(self):
         self.relay.value(1)
     
-    def disableRelay(self):
+    def disable(self):
         self.relay.value(0)
         
     
 class lightSensor:
-    def __init__(self,outPin,sclPin,sdaPin):
-        i2c= I2C(outPin, scl = Pin(sclPin), sda = Pin(sdaPin))
+    def __init__(self,busNum,sclPin,sdaPin):
+        i2c= I2C(busNum, scl = Pin(sclPin), sda = Pin(sdaPin))
         self.sensor = tsl2561.TSL2561(i2c)
     def returnSensor(self):
         return self.sensor
+    
+class clock:
+    def __init__(self, busNum, sclPin, sdaPin):
+        i2c =I2C(busNum, scl = Pin(sclPin), sda = Pin(sdaPin))
+        self.clock = urtc.DS3231(i2c)
+    def returnClock(self):
+        return self.clock
