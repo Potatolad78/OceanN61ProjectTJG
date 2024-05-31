@@ -19,6 +19,7 @@ In the future, we aim to have the ability to copy this file directly into an Exc
 
 
 TEAM MEMBERS:
+
 Jenna Fernandez (461) - Team Leader, Calibration/Testing, and Circuits 
 Lydia Kelley (361) - Circuits, Design, and Calibration/Testing
 Hiroki Kurihara (261) - CAD, Design
