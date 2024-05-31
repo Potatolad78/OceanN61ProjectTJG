@@ -4,10 +4,108 @@ from picozero import RGBLED
 from servo import Servo
 import tsl2561
 import urtc
-#Created by Drew Rigby for group The Melting Pot
-#Version 1.0 4/24/24
-#Feel free to use this API for whatever you need just make sure
-#to credit if used :)
+"""
+Created by Drew Rigby for group The Melting Pot
+Version 1.1 5/31/24
+Feel free to use this API for whatever you need just make sure to credit if used :)
+
+Includes: All needed functionality needed for TJG pH sensor.
+
+How to import:
+from RGBLightLibrary import followed by the classes that you need to import 
+"""
+
+"""
+Abstracts a RGB Light that is common ground and allows the user to manipulate it
+
+init(redPin,greenPin,blue1):
+
+Input parameters would be the gpio pins you have to red , green, and blue in this specific 
+order and returns an object that represents the RGB light
+
+Functions:
+    
+turnOnGreen(level):
+Turns on the green LED at a specified brightness level.
+Input: level - an integer (0-255) representing the brightness level of the green LED.
+    
+turnOnRed(level):
+Turns on the red LED at a specified brightness level.
+Input: level - an integer (0-255) representing the brightness level of the red LED.
+    
+turnOnBlue(level):
+Turns on the blue LED at a specified brightness level.
+Input: level - an integer (0-255) representing the brightness level of the blue LED.
+    
+turnOffGreen():
+Turns off the green LED.
+No input parameters.
+    
+turnOffRed():
+Turns off the red LED.
+No input parameters.
+    
+turnOffBlue():
+Turns off the blue LED.
+No input parameters.
+    
+turnOnPurple():
+Turns on the red and blue LEDs to simulate purple light.
+No input parameters.
+    
+turnOffPurple():
+Turns off the red and blue LEDs to disable purple light.
+No input parameters.
+    
+turnOnCyan():
+Turns on the blue and green LEDs to simulate cyan light.
+No input parameters.
+    
+turnOffCyan():
+Turns off the blue and green LEDs to disable cyan light.
+No input parameters.
+    
+turnOnBrown():
+Turns on the red and green LEDs to simulate brown light.
+No input parameters.
+    
+turnOffBrown():
+Turns off the red and green LEDs to disable brown light.
+No input parameters.
+    
+turnOnWhite():
+Turns on all LEDs to simulate white light.
+No input parameters.
+    
+turnOffWhite():
+Turns off all LEDs.
+No input parameters.
+    
+cycleThroughLights():
+Cycles through the red, green, and blue LEDs, turning each on for 5 seconds in sequence.
+No input parameters.
+    
+takeMeassurments(color, sleepTime, sensor, loop):
+Takes sensor measurements for a specified color LED over a number of loops.
+Input: color - a string representing the color to measure ('red', 'green', 'blue', 'purple').
+sleepTime - an integer representing the time to wait between measurements.
+sensor - an object representing the sensor to read values from.
+loop - an integer representing the number of measurement loops to perform.
+
+
+Example of use:
+
+led = RGBLight(1,2,3)
+
+led.turnOnPurple()
+
+sleep(2)
+
+led.turnOffPurple()
+
+This would turn on the red and blue lights to simulate purple for two seconds
+then would turn it off
+"""
 class RGBLight():
     #Init allows for input of three pins that light up each line
     #Needs to hand in pins from the user code
@@ -68,14 +166,7 @@ class RGBLight():
     def turnOffBrown(self):
         self.turnOffRed()
         self.turnOffGreen()
-    
-    def turnOnPhenolRed(self):
-        self.turnOnGreen(70)
-        self.turnOnBlue(255)
-        
-    def turnOffPhenolRed(self):
-        self.turnOffGreen()
-        self.turnOffBlue()
+
     #Turns on all LEDS to simulate white
     def turnOnWhite(self):
         self.turnOnRed()
@@ -189,21 +280,88 @@ class RGBLight():
                 f.write("Total Average:" + str(totalAverage / 3) + " Sleep Time: " +  str(sleepTime)+ " \n")
                 f.write("\n")
         f.close()
+"""
+Abstracts the creation of a servo and allows the user to move the servo between 
+100 to -30 back to 100
+
+init(servoPinNum, OPTIONAL pumpRelay):
+Input parameter of gpio pin the servo is using along with the optional inclusion
+of a pumpRelay. If the pump relay is passed it will be activated in sequence with
+the servo when using the move function. If it is not included then the servo will
+just move as intended.
+
+Functions:
+
+move():
+No Input parameters. If pumpRelay was given then the servo will move to 100 then
+turn on the pump for two seconds then turn it off and in another 3 seconds will move
+to the orginal position of -30. If the pumpRelay is not included then the servo will
+move to 100 and wait 5 seconds then move back to the start position of -30
+
+Example of use using pumpRelay:
+
+pumpRelay = powerRelay(22)
+servo = servoMove(27,pumpRelay)
+
+servo.move()
+
+The servo will act acording to the description of move
+
+Example of use without using pumpRelay:
+
+servo = servoMove(27)
+
+servo.move()
+
+The servo will act in accordince to the description of move
+"""
 class servoMove:
-    def __init__(self, servoPinNum):
+    def __init__(self, servoPinNum, pumpRelay = None):
         servoPin = Pin(servoPinNum, Pin.OUT)
         self.servo = Servo(servoPin)
-        startAngle = 100;
-        endAngle = -30
-        print(servoPin)
+        self.pumpRelay = pumpRelay
     
     def move(self):
-        self.servo.write(100)
-        sleep(0.1)
         self.servo.write(-30)
-        sleep(12)
+        sleep(0.1)
         self.servo.write(100)
-        
+        if self.pumpRelay:
+            self.pumpRelay.enable()
+            sleep(2)
+            self.pumpRelay.disable()
+            sleep(3)
+            self.servo.write(-30)
+        else:
+            sleep(5)
+            self.servo.write(100)
+""" 
+Abstracts the creation of a relay that allows for simpler interaction with the 
+device
+
+init(pinNum):
+Input parameter of the common pin in the relay. Creates the powerRelay object
+
+Functions:
+
+enable():
+No input parameters and essentially allows the user to turn on the relay
+
+disable():
+No input parameters and essentially allows the user to turn off the relay
+
+
+Example of use:
+pumpRelay = powerRelay(22)
+
+pumpRelay.enable()
+
+sleep(2)
+
+pumpRelay.disable()
+
+This should turn on the relay for two seconds then turn it off
+
+"""        
 class powerRelay:
     def __init__(self, pinNum):
         self.relay = Pin(pinNum, Pin.OUT)
@@ -213,18 +371,42 @@ class powerRelay:
     
     def disable(self):
         self.relay.value(0)
-        
-    
+"""
+Abstracts the creation of the light sensor tsl2561
+NOTE: Should only be used if you are also planning on returning the sensor. This
+class does not have any functions that allow you to do anything with the sensor.
+
+init(busNum,sclPin, sdaPin):
+Input parameters are the number of the bus that you are using for the scl and sda
+pins and the pins themselves in the above order. Switching the order will cause 
+the sensor to throw errors
+
+Functions:
+
+returnSensor():
+No input parameter. Returns the sensor that you have created.
+
+Example of use:
+lightSensor = lightSensor(1,7,6)
+lightSensor = lightSensor.returnSensor()
+
+print(lightSensor.read())
+
+Console: 
+1124
+"""
+
 class lightSensor:
     def __init__(self,busNum,sclPin,sdaPin):
         i2c= I2C(busNum, scl = Pin(sclPin), sda = Pin(sdaPin))
         self.sensor = tsl2561.TSL2561(i2c)
     def returnSensor(self):
         return self.sensor
-    
+"""   Disregard This as a work in progress DOES NOT WORK 
 class clock:
     def __init__(self, busNum, sclPin, sdaPin):
         i2c =I2C(busNum, scl = Pin(sclPin), sda = Pin(sdaPin))
         self.clock = urtc.DS3231(i2c)
     def returnClock(self):
         return self.clock
+"""

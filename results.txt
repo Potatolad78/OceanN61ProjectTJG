@@ -1,0 +1,691 @@
+Test1
+GREEN: Average1: 196.702 Average2: 197.0579 Average3: 197.0579 Total Average:196.9392 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 196.8799 Average2: 197.0579 Average3: 197.2358 Total Average:197.0579 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 196.8799 Average2: 196.524 Average3: 196.524 Total Average:196.6427 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 196.702 Average2: 196.524 Average3: 196.8799 Total Average:196.702 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 197.0579 Average2: 197.0579 Average3: 196.8799 Total Average:196.9985 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 197.2358 Average2: 197.4138 Average3: 197.2358 Total Average:197.2951 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 197.2358 Average2: 197.0579 Average3: 197.2358 Total Average:197.1765 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 197.0579 Average2: 196.8799 Average3: 197.2358 Total Average:197.0579 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.2358 Total Average:197.3544 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 197.4138 Average2: 197.2358 Average3: 197.4138 Total Average:197.3544 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 197.4138 Average2: 197.2358 Average3: 197.4138 Total Average:197.3544 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.0579 Total Average:197.2951 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 51.85187 Average2: 51.85187 Average3: 51.85187 Total Average:51.85187 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 51.85187 Average2: 51.85187 Average3: 51.85187 Total Average:51.85187 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 51.85187 Average2: 51.85187 Average3: 51.85187 Total Average:51.85187 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 51.85187 Average2: 51.85187 Average3: 51.85187 Total Average:51.85187 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 51.85187 Average2: 51.85187 Average3: 51.85187 Total Average:51.85187 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test1
+BLUE: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test2
+BLUE: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test3
+BLUE: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test4
+BLUE: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test5
+BLUE: Average1: 197.4138 Average2: 197.4138 Average3: 197.4138 Total Average:197.4138 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test1
+RED: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test2
+RED: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test3
+RED: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test4
+RED: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test5
+RED: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test1
+BLUE: Average1: 220.9032 Average2: 220.7253 Average3: 220.5473 Total Average:220.7253 Sleep Time: 0.5 
+
+Test2
+BLUE: Average1: 220.9032 Average2: 220.7253 Average3: 220.5473 Total Average:220.7253 Sleep Time: 0.5 
+
+Test3
+BLUE: Average1: 220.7253 Average2: 220.5473 Average3: 220.7253 Total Average:220.6659 Sleep Time: 0.5 
+
+Test4
+BLUE: Average1: 220.7253 Average2: 220.7253 Average3: 221.0811 Total Average:220.8439 Sleep Time: 0.5 
+
+Test5
+BLUE: Average1: 220.9032 Average2: 220.9032 Average3: 221.0811 Total Average:220.9625 Sleep Time: 0.5 
+
+Test1
+PURPLE: Average1: 273.4535 Average2: 273.4535 Average3: 273.4535 Total Average:273.4535 Sleep Time: 0.5 
+
+Test2
+PURPLE: Average1: 273.4535 Average2: 273.4535 Average3: 273.4535 Total Average:273.4535 Sleep Time: 0.5 
+
+Test3
+PURPLE: Average1: 273.4535 Average2: 273.4535 Average3: 273.4535 Total Average:273.4535 Sleep Time: 0.5 
+
+Test4
+PURPLE: Average1: 273.4535 Average2: 273.4535 Average3: 273.4535 Total Average:273.4535 Sleep Time: 0.5 
+
+Test5
+PURPLE: Average1: 273.4535 Average2: 273.4535 Average3: 273.4535 Total Average:273.4535 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 130.0714 Average2: 130.0714 Average3: 130.0714 Total Average:130.0714 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 130.4273 Average2: 130.9611 Average3: 130.7832 Total Average:130.7239 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 130.0714 Average2: 130.2493 Average3: 130.2493 Total Average:130.19 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 130.0714 Average2: 130.4273 Average3: 130.4273 Total Average:130.3087 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.7832 Total Average:130.9018 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 130.7832 Average2: 130.9611 Average3: 130.9611 Total Average:130.9018 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 130.9611 Average2: 130.9611 Average3: 130.9611 Total Average:130.9611 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 117.7371 Average2: 129.1816 Average3: 129.1816 Total Average:125.3668 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 129.3596 Average2: 129.5375 Average3: 129.5375 Total Average:129.4782 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 130.0714 Average2: 129.8934 Average3: 129.5375 Total Average:129.8341 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 129.3596 Average2: 129.1816 Average3: 129.1816 Total Average:129.241 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 129.3596 Average2: 129.1816 Average3: 129.1816 Total Average:129.241 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 129.1816 Average2: 129.1816 Average3: 129.1816 Total Average:129.1816 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 127.5801 Average2: 127.4021 Average3: 127.4021 Total Average:127.4614 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 127.4021 Average2: 127.4021 Average3: 127.4021 Total Average:127.4021 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 127.4021 Average2: 127.4021 Average3: 127.4021 Total Average:127.4021 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 127.4021 Average2: 127.4021 Average3: 128.1139 Total Average:127.6394 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 127.5801 Average2: 127.758 Average3: 127.758 Total Average:127.6987 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 127.5801 Average2: 127.758 Average3: 127.936 Total Average:127.758 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 127.936 Average2: 128.1139 Average3: 128.1139 Total Average:128.0546 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 127.5801 Average2: 127.758 Average3: 127.5801 Total Average:127.6394 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 127.4021 Average2: 127.4021 Average3: 127.4021 Total Average:127.4021 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 127.4021 Average2: 127.5801 Average3: 127.5801 Total Average:127.5208 Sleep Time: 0.5 
+
+Test1
+Test1
+GREEN: Average1: 123.9439 Average2: 123.588 Average3: 123.2321 Total Average:123.588 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 83.71925 Average2: 80.87206 Average3: 78.38075 Total Average:80.99068 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 65.83133 Average2: 65.11953 Average3: 69.42749 Total Average:66.79279 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 53.45986 Average2: 52.21421 Average3: 52.1213 Total Average:52.59846 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 42.41908 Average2: 41.70728 Average3: 41.17342 Total Average:41.76659 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 86.28774 Average2: 86.28774 Average3: 86.28774 Total Average:86.28774 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 86.28774 Average2: 86.28774 Average3: 86.28774 Total Average:86.28774 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 86.28774 Average2: 86.28774 Average3: 86.28774 Total Average:86.28774 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 85.39799 Average2: 85.39799 Average3: 85.39799 Total Average:85.39799 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 85.39799 Average2: 85.39799 Average3: 85.39799 Total Average:85.39799 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 25.50594 Average2: 25.50594 Average3: 25.50594 Total Average:25.50594 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 26.39569 Average2: 26.39569 Average3: 26.39569 Total Average:26.3957 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 26.39569 Average2: 26.39569 Average3: 26.39569 Total Average:26.3957 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 26.39569 Average2: 26.39569 Average3: 26.39569 Total Average:26.3957 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 26.39569 Average2: 26.39569 Average3: 26.39569 Total Average:26.3957 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 25.68389 Average2: 25.50594 Average3: 25.50594 Total Average:25.56526 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 26.39569 Average2: 26.39569 Average3: 26.39569 Total Average:26.3957 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 26.39569 Average2: 26.39569 Average3: 26.39569 Total Average:26.3957 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 26.39569 Average2: 26.39569 Average3: 26.39569 Total Average:26.3957 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 26.39569 Average2: 26.39569 Average3: 26.39569 Total Average:26.3957 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 14.69493 Average2: 14.31473 Average3: 14.69493 Total Average:14.5682 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 23.86222 Average2: 23.86222 Average3: 23.86222 Total Average:23.86222 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 22.91173 Average2: 22.91173 Average3: 22.91173 Total Average:22.91173 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 22.91173 Average2: 22.91173 Average3: 22.91173 Total Average:22.91173 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 22.91173 Average2: 22.91173 Average3: 22.91173 Total Average:22.91173 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 1.990066 Average2: 1.990066 Average3: 1.990066 Total Average:1.990066 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 3.017389 Average2: 1.990066 Average3: 1.990066 Total Average:2.332506 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 3.017389 Average2: 3.017389 Average3: 3.017389 Total Average:3.017389 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 5.865307 Average2: 5.865307 Average3: 5.865307 Total Average:5.865307 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 6.815805 Average2: 6.815805 Average3: 6.815805 Total Average:6.815805 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 7.710916 Average2: 7.710916 Average3: 7.710916 Total Average:7.710916 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 7.710916 Average2: 7.710916 Average3: 7.710916 Total Average:7.710916 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 10.28012 Average2: 10.28012 Average3: 10.28012 Total Average:10.28012 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 10.47808 Average2: 10.28012 Average3: 10.28012 Total Average:10.3461 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 10.47808 Average2: 10.28012 Average3: 10.28012 Total Average:10.3461 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 10.28012 Average2: 10.28012 Average3: 10.28012 Total Average:10.28012 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 10.28012 Average2: 10.28012 Average3: 10.28012 Total Average:10.28012 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 10.28012 Average2: 10.28012 Average3: 10.28012 Total Average:10.28012 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 10.28012 Average2: 10.28012 Average3: 10.28012 Total Average:10.28012 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 10.28012 Average2: 10.28012 Average3: 10.28012 Total Average:10.28012 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 2.279503 Average2: 2.279503 Average3: 2.279503 Total Average:2.279503 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 1.389751 Average2: 2.279503 Average3: 2.279503 Total Average:1.982919 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 2.279503 Average2: 2.279503 Average3: 2.279503 Total Average:2.279503 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 2.279503 Average2: 2.279503 Average3: 2.279503 Total Average:2.279503 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 2.279503 Average2: 2.279503 Average3: 2.279503 Total Average:2.279503 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 2.279503 Average2: 2.279503 Average3: 2.279503 Total Average:2.279503 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 2.279503 Average2: 2.279503 Average3: 2.279503 Total Average:2.279503 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 1.389751 Average2: 1.567702 Average3: 4.038637 Total Average:2.33203 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 2.279503 Average2: 2.279503 Average3: 2.279503 Total Average:2.279503 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 1.567702 Average2: 2.279503 Average3: 2.279503 Total Average:2.042236 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 3.017389 Average2: 1.990066 Average3: 1.990066 Total Average:2.332506 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 2.279503 Average2: 2.279503 Average3: 2.279503 Total Average:2.279503 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 3.017389 Average2: 3.017389 Average3: 3.017389 Total Average:3.017389 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 1.990066 Average2: 1.990066 Average3: 1.990066 Total Average:1.990066 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 1.990066 Average2: 1.990066 Average3: 3.017389 Total Average:2.332506 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 2.400995 Average2: 3.017389 Average3: 3.017389 Total Average:2.811924 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 1.990066 Average2: 1.990066 Average3: 1.990066 Total Average:1.990066 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 0.9037827 Average2: 0.9037827 Average3: 0.9037827 Total Average:0.9037827 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 2.606459 Average2: 1.990066 Average3: 1.990066 Total Average:2.19553 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 1.389751 Average2: 1.389751 Average3: 1.389751 Total Average:1.389751 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 0.9037827 Average2: 0.9037827 Average3: 0.9037827 Total Average:0.9037827 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 4.779025 Average2: 5.865307 Average3: 4.91481 Total Average:5.186381 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 2.400995 Average2: 2.19553 Average3: 3.206773 Total Average:2.601099 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 3.964313 Average2: 3.964313 Average3: 3.964313 Total Average:3.964313 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 3.964313 Average2: 4.91481 Average3: 4.91481 Total Average:4.597978 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 3.964313 Average2: 3.964313 Average3: 4.724711 Total Average:4.217779 Sleep Time: 0.5 
+
+Test1
+GREEN: Average1: 19.44741 Average2: 19.44741 Average3: 19.44741 Total Average:19.44741 Sleep Time: 0.5 
+
+Test2
+GREEN: Average1: 18.49692 Average2: 18.49692 Average3: 18.49692 Total Average:18.49692 Sleep Time: 0.5 
+
+Test3
+GREEN: Average1: 18.49692 Average2: 18.49692 Average3: 18.49692 Total Average:18.49692 Sleep Time: 0.5 
+
+Test4
+GREEN: Average1: 19.44741 Average2: 19.44741 Average3: 19.25731 Total Average:19.38405 Sleep Time: 0.5 
+
+Test5
+GREEN: Average1: 19.44741 Average2: 20.17208 Average3: 20.35324 Total Average:19.99091 Sleep Time: 0.5 
+
