@@ -16,3 +16,13 @@ When collecting data from the sensor, there is a single file on the Pi that cont
 file will contain averaged results. This format focuses on user readability. Each average is taken from three 
 averages of five samples to ensure accuracy and precision.
 In the future, we aim to have the ability to copy this file directly into an Excel file for instant mapping.
+
+
+TEAM MEMBERS:
+Jenna Fernandez (461) - Team Leader, Calibration/Testing, and Circuits 
+Lydia Kelley (361) - Circuits, Design, and Calibration/Testing
+Hiroki Kurihara (261) - CAD, Design
+Paige McKay (261) - Hardware, Testing, and Circuits 
+Drew Rigby (261/361)  - Coding, Wiring, and Hardware
+Marley Salgado-Smith (361) - Scientific Rationale, Documentation, and Design
+Natalie Santiago (261) - Design, Documentation
