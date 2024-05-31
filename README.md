@@ -12,10 +12,7 @@ you will see that the code that you wrote will be running on the py starting at 
 
 HOW TO RETRIEVE DATA FROM SENSOR:
 
-When collecting data from the sensor there are two files that you can look at on the pi that contain said data.
-The first file is results.txt, this file will contain averaged results that will be dated with month,day,year,hour,
-minute taken. This will be the easiest way to read the data as it will be in a format that is focused on user 
-readability. Each average is taken from 3 averages of 5 samples to make sure that it is accurate and percise. The other 
-file will be full.txt, this will contain each and every average taken. This means that it will be much harder to read 
-however it will be useful for debuging purposes if you change our code or are seeing readings that do not make sense.
-We would like to soon have the ability to just copy the file over into an excel file and to instantly map it from there.
+When collecting data from the sensor, there is a single file on the Pi that contains the data: results.txt. This 
+file will contain averaged results. This format focuses on user readability. Each average is taken from three 
+averages of five samples to ensure accuracy and precision.
+In the future, we aim to have the ability to copy this file directly into an Excel file for instant mapping.
